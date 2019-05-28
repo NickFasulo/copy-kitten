@@ -17,9 +17,10 @@ a {
     text-decoration: none;
     color: #FFFFFF;
     padding: 10px;
+    box-shadow: 0 5px #1D5275;
 }
 
-a:active {
-  box-shadow: 0 5px #1D5275;
-  transform: translateY(4px);
+a:hover {
+    transform: translateY(4px);
+    box-shadow: none;
 }
