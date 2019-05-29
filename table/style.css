@@ -1,5 +1,7 @@
 * {
     box-sizing: border-box;
+    margin-top: 20px;
+    margin-bottom: 20px;
 }
 
 div {
@@ -7,5 +9,7 @@ div {
 }
 
 a {
-
+    border: solid black 1px;
+    padding: 5px;
+    font-size: 20px;
 }
